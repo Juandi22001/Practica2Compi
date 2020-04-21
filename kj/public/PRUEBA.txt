@@ -1,0 +1,29 @@
+if ( ba != a && a = 3 )  {
+
+int a ;
+//hola
+
+Console.Write ( "hola" );
+
+ } else if ( a = f ){
+
+//hola amiguis
+a = 9;
+
+ }
+ 
+ else {
+
+Console.Write ( "hola" ) ;
+
+ } 
+ 
+ 
+ while ( a > 3 ){
+
+if ( a == 2 ){
+
+    //hola
+}
+
+ };
