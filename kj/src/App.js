@@ -1,7 +1,7 @@
 
 import React, { Component } from 'react';
 import logo from './idioma.svg';
-
+//555
 import './App.css';
 
 var Tk;
